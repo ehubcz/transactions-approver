@@ -1,0 +1,16 @@
+{
+    "name": "ehubcz/transactions-approver",
+    "description": "Sample project showing the implementation of the transaction approval using eHUB API.",
+    "license": ["MIT", "BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+    "authors": [
+        {
+            "name": "Tomas Jacik",
+            "email": "tomas@jacik.cz",
+            "homepage": "https://tomasjacik.cz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
